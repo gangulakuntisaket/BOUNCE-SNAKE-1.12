@@ -1,0 +1,1 @@
+A growing collection of tools, games, extensions, and experimental apps built across Python, JavaScript, and custom OS projects. This repo serves as a central hub for everything I build — from small utilities to full interactive experiences.
